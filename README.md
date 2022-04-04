@@ -1,10 +1,9 @@
 # The best digital camera analysis website
 
 
-## live link
+## live link : https://react-router-assignment-a6f5b.netlify.app/
 
 
-In the project directory, you can run:
 
 ### Description
 * Generate json fakedata
