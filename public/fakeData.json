@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Ania Pietras",
+        "ratings": "4.0 star",
+        "comment": "Pro grade dust- and splash-protected body. Excellent in-camera film looks and Raw processing.",
+        "img": "https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Judit Pacsai",
+        "ratings": "4.5 star",
+        "comment": "The Panasonic Lumix DC-S5 is a slimmer, more affordable full-frame camera, with loads of appeal for photographers shopping for an entry-level or midrange model.",
+        "img": "https://image.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dan Cederholm",
+        "ratings": "5.0 star",
+        "comment": "With a stabilized 33MP sensor, 10-bit 4K, and fast autofocus, the Sony a7 IV is a compelling full-frame camera for creatives.",
+        "img": "https://image.freepik.com/free-photo/attractive-man-model-with-trendy-hairdo-beard-dressed-white-t-shirt_273609-16964.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cameron Moll",
+        "ratings": "3.0 star",
+        "comment": "The Canon PowerShot G7 X Mark III is a good pocket camera with a big 1-inch sensor, but it faces strong competition from smartphones and cameras alike.",
+        "img": "https://image.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Sandi Metz",
+        "ratings": "3.5 star",
+        "comment": "The Fujifilm X-S10 puts a proven image sensor into a camera body with a big grip that's better for telephoto lenses, and in-body stabilization for blur-free photos and video.",
+        "img": "https://image.freepik.com/free-photo/lifestyle-business-people-holding-laptop-computer-office-desk_1150-10180.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jeffrey Zeldman",
+        "ratings": "4.0 star",
+        "comment": "The Sony ZV-1 is a pocketable camera with strong still image quality and features geared specifically toward vloggers.",
+        "img": "https://image.freepik.com/free-photo/young-male-looking-pink-t-shirt-looking-cheerful-front-view_176474-84436.jpg"
+    }
+]
