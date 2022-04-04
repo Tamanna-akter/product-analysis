@@ -1,0 +1,16 @@
+.error-container{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding:30px;
+}
+.error-container h1{
+    font-style: italic;
+    text-align: center;
+    font-size: 40px;
+    color:red;
+    margin-top: 50px;
+}
+.error-img{
+  width:200px;
+  border-radius: 50px;
+}
