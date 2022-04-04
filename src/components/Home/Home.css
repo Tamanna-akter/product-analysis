@@ -14,3 +14,11 @@
 .text-start{
     margin-left: 40px;
 }
+.reviews{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.btn{
+   border: 3px solid rgb(180, 245, 180);
+}

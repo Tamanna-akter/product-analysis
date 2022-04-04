@@ -1,7 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import cameraImg from '../../images/camera.jpg';
+import useReviews from '../customHooks/useReviews';
+import ReviewCard from '../ReviewCard/ReviewCard';
 import './Home.css';
 const Home = () => {
+    const [reviews, setReviews] = useReviews();
+    const reviewsCard = reviews.slice(0, 3);
     return (
 
         <div className="header-container">
@@ -18,6 +23,18 @@ const Home = () => {
                     <img className="header-img" src={cameraImg} alt="" />
                 </div>
             </div>
+            <div>
+                <h1>Customer Reviews</h1>
+                <div className='reviews'>
+                    {
+                        reviewsCard.map(card => <ReviewCard key={card.id}
+                            card={card}
+                        ></ReviewCard>)
+                    }
+                </div>
+                <Link className='btn btn-success  mt-2' to="/reviews">See All Reviews</Link>
+            </div>
+
         </div>
 
     );
