@@ -7,7 +7,7 @@
 In the project directory, you can run:
 
 ### Description
-@ using custom hook
+* using custom hook
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
