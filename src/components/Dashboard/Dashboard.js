@@ -45,7 +45,7 @@ const Dashboard = () => {
     return (
         <div className='recharts'>
             <div className='area-chart'>
-                <h3>Month vs Investment vs Sell vs Revenue</h3>
+                <h4 className='text-primary'>Month Wise Sell</h4>
 
                 <AreaChart
                     width={600}
@@ -70,7 +70,7 @@ const Dashboard = () => {
                 </AreaChart>
             </div>
             <div>
-                <h3>Month vs Investment vs Sell vs Revenue</h3>
+                <h4 className='text-primary'>Investment vs Revenue</h4>
 
                 <BarChart
                     width={600}

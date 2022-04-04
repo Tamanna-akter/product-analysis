@@ -1,18 +1,17 @@
 .content{
-    /* display: flex; */
    margin-top: 30px;
-    margin-left: 70px;
+    margin-left: 400px;
 }
 .qus1{
-    background-color:green;
     color: white;
-    border: 5px solid greenyellow;
+    border: 3px solid rgb(117, 130, 243);
     border-radius: 20px;
+    width: 50%;
 }
 .qus2{
-    background-color:green;
     color: white;
-    border: 5px solid greenyellow;
+    border: 3px solid rgb(117, 130, 243);
     border-radius: 20px;
     margin-top: 30px;
+    width: 50%;
 }
